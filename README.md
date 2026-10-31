@@ -7,6 +7,12 @@
   </picture>
 </p>
 
+<div align="center">
+
+[![Latest PlutarchPages release](https://badgen.net/github/release/EquityBot/PlutarchPages/stable?label=release&color=66023C&labelColor=000000)](https://github.com/EquityBot/PlutarchPages/releases/latest) [![Latest laconic-check release](https://badgen.net/github/release/EquityBot/Laconic/stable?label=release&color=66023C&labelColor=000000)](https://github.com/EquityBot/Laconic/releases/latest)
+
+</div>
+
 Free tools for coding agents, privacy and documents, mostly in Rust.
 
 ## Tools
