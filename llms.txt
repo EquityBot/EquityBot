@@ -1,0 +1,20 @@
+# EquityBot
+
+> EquityBot publishes free tools for coding agents, privacy and documents, mostly in Rust. Each repository's README states what it does, what it needs and its limits; read version numbers and status from the linked repository.
+
+This file indexes EquityBot's GitHub repositories. Every repository listed here except PamweChete also has its own llms.txt and CITATION.cff.
+
+## Tools
+
+- [Puritanical](https://github.com/EquityBot/Puritanical): a skill for Claude Code, Codex and other coding agents that asks for the smallest correct change, verified. Forked from Ponytail.
+- [Laconic](https://github.com/EquityBot/Laconic): concise, answer-first output and an AI-text humaniser in correct Australian English, for coding agents.
+- [GhostSoap](https://github.com/EquityBot/GhostSoap): prepares Australian Privacy Act requests to data brokers from a sourced register, for you to send from your own mailbox. Reply tracking is planned.
+- [Alcuin](https://github.com/EquityBot/Alcuin): asks ChatGPT, or the OpenAI or Azure OpenAI API, about your source files from a CLI or MCP server, and keeps each answer as a durable session. A Rust port of Calvino.
+- [DiogenesLamp](https://github.com/EquityBot/DiogenesLamp): archives Yupoo catalogues offline, with a local virtualised viewer.
+
+## Forks
+
+- [PlutarchPages](https://github.com/EquityBot/PlutarchPages): a pure Rust PDF workbench, forked from PdfCraft.
+- [rgg](https://github.com/EquityBot/rgg): a distribution of RTK, which compresses command output before a coding agent reads it.
+- [PamweChete](https://github.com/EquityBot/PamweChete): a pi coding-agent configuration to copy piece by piece. Archived.
+- [Contribution forks](https://github.com/EquityBot/EquityBot/blob/main/FORKS.md): forks kept to offer fixes upstream, and their pull requests.
