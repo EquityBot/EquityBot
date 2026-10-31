@@ -9,7 +9,7 @@ This file indexes EquityBot's GitHub repositories. Every repository listed here 
 - [Puritanical](https://github.com/EquityBot/Puritanical): a skill for Claude Code, Codex and other coding agents that asks for the smallest correct change, verified. Forked from Ponytail.
 - [Laconic](https://github.com/EquityBot/Laconic): concise, answer-first output and an AI-text humaniser in correct Australian English, for coding agents.
 - [GhostSoap](https://github.com/EquityBot/GhostSoap): prepares Australian Privacy Act requests to data brokers from a sourced register, for you to send from your own mailbox. Reply tracking is planned.
-- [Alcuin](https://github.com/EquityBot/Alcuin): asks ChatGPT, or the OpenAI or Azure OpenAI API, about your source files from a CLI or MCP server, and keeps each answer as a durable session. A Rust port of Calvino.
+- [Alcuin](https://github.com/EquityBot/Alcuin): asks ChatGPT, or the OpenAI or Azure OpenAI API, about your source files from a CLI or MCP server, and keeps each answer as a durable session.
 - [DiogenesLamp](https://github.com/EquityBot/DiogenesLamp): archives Yupoo catalogues offline, with a local virtualised viewer.
 
 ## Forks
