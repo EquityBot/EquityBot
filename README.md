@@ -19,7 +19,7 @@ Free tools for coding agents, privacy and documents, mostly in Rust.
 
 - [Puritanical](https://github.com/EquityBot/Puritanical): the smallest correct change, verified. A skill for Claude Code, Codex and other coding agents.
 - [Laconic](https://github.com/EquityBot/Laconic): answer-first output and an AI-text humaniser in Australian English, for coding agents.
-- [GhostSoap](https://github.com/EquityBot/GhostSoap): prepare Australian Privacy Act requests to data brokers and track the replies.
+- [GhostSoap](https://github.com/EquityBot/GhostSoap): prepare Australian Privacy Act requests to data brokers, for you to send from your own mailbox.
 - [Alcuin](https://github.com/EquityBot/Alcuin): ask ChatGPT, or the OpenAI or Azure OpenAI API, about your source files from a CLI or MCP server, and keep each answer.
 - [DiogenesLamp](https://github.com/EquityBot/DiogenesLamp): archive Yupoo catalogues offline, with a local viewer.
 
