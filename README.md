@@ -26,7 +26,9 @@ Free tools for coding agents, privacy and documents, mostly in Rust.
 ## Forks
 
 - [PlutarchPages](https://github.com/EquityBot/PlutarchPages): a pure Rust PDF workbench, from PdfCraft.
-- [rgg](https://github.com/EquityBot/rgg): a distribution of RTK, which compresses command output before a coding agent reads it.
+- [PascalsLetter](https://github.com/EquityBot/PascalsLetter): a distribution of RTK, which compresses command output before a coding agent reads it.
+- [GrievousGreps](https://github.com/EquityBot/GrievousGreps): a distribution of Trail-Code, a code graph that shows a coding agent what a change reaches before it edits.
+- [ApollinaireASCII](https://github.com/EquityBot/ApollinaireASCII): a Rust library, CLI and browser editor for ASCII art, block lettering and animation, from RASCII.
 - [PamweChete](https://github.com/EquityBot/PamweChete): a pi coding-agent configuration to copy piece by piece (archived).
 
 ---

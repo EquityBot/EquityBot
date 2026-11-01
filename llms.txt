@@ -2,7 +2,7 @@
 
 > EquityBot publishes free tools for coding agents, privacy and documents, mostly in Rust. Each repository's README states what it does, what it needs and its limits; read version numbers and status from the linked repository.
 
-This file indexes EquityBot's GitHub repositories. Every repository listed here except PamweChete also has its own llms.txt and CITATION.cff.
+This file indexes EquityBot's GitHub repositories. Where a repository has its own llms.txt or CITATION.cff, prefer it for that repository's details.
 
 ## Tools
 
@@ -15,6 +15,8 @@ This file indexes EquityBot's GitHub repositories. Every repository listed here 
 ## Forks
 
 - [PlutarchPages](https://github.com/EquityBot/PlutarchPages): a pure Rust PDF workbench, forked from PdfCraft.
-- [rgg](https://github.com/EquityBot/rgg): a distribution of RTK, which compresses command output before a coding agent reads it.
+- [PascalsLetter](https://github.com/EquityBot/PascalsLetter): a distribution of RTK, which compresses command output before a coding agent reads it. It installs the same `rtk` binary.
+- [GrievousGreps](https://github.com/EquityBot/GrievousGreps): a distribution of Trail-Code, a code graph CLI that maps the functions and callers it can resolve, so a coding agent can see what a change reaches before it edits. It installs the same `trail` and `graft` commands.
+- [ApollinaireASCII](https://github.com/EquityBot/ApollinaireASCII): a Rust library, CLI and browser editor for static ASCII art, block lettering and animation in selectable characters, forked from RASCII.
 - [PamweChete](https://github.com/EquityBot/PamweChete): a pi coding-agent configuration to copy piece by piece. Archived.
 - [Contribution forks](https://github.com/EquityBot/EquityBot/blob/main/FORKS.md): forks kept to offer fixes upstream, and their pull requests.
