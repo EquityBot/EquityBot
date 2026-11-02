@@ -31,6 +31,10 @@ Free tools for coding agents, privacy and documents, mostly in Rust.
 - [ApollinaireASCII](https://github.com/EquityBot/ApollinaireASCII): a Rust library, CLI and browser editor for ASCII art, block lettering and animation, from RASCII.
 - [PamweChete](https://github.com/EquityBot/PamweChete): a pi coding-agent configuration to copy piece by piece (archived).
 
+Fixes the forks offer upstream are listed in [FORKS.md](https://github.com/EquityBot/EquityBot/blob/main/FORKS.md).
+
+The banner's lettering and emblem are drawn from Cascadia Mono and Besley glyphs (SIL OFL 1.1).
+
 ---
 
 <p align="center"><sub><i>Ad gloriam eius, non meam.</i></sub></p>
