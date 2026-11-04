@@ -23,4 +23,4 @@ This file indexes EquityBot's GitHub repositories. Where a repository has its ow
 
 ## Reuse
 
-- [Reusing this repository](https://github.com/EquityBot/EquityBot/blob/main/AGENTS.md#reusing-this-code): Ryan Duguid's work, with no licence; ask him first; public credit is requested.
+- [Reusing this repository](https://github.com/EquityBot/EquityBot/blob/main/AGENTS.md#reusing-this-code): Ryan Duguid's work, with no licence; beyond copyright exceptions and GitHub's terms, ask him first; public credit is requested.
