@@ -20,3 +20,7 @@ This file indexes EquityBot's GitHub repositories. Where a repository has its ow
 - [ApollinaireASCII](https://github.com/EquityBot/ApollinaireASCII): a Rust library, CLI and browser editor for static ASCII art, block lettering and animation in selectable characters, forked from RASCII.
 - [PamweChete](https://github.com/EquityBot/PamweChete): a pi coding-agent configuration to copy piece by piece. Archived.
 - [Contribution forks](https://github.com/EquityBot/EquityBot/blob/main/FORKS.md): forks kept to offer fixes upstream, and their pull requests.
+
+## Reuse
+
+- [Reusing this repository](https://github.com/EquityBot/EquityBot/blob/main/AGENTS.md#reusing-this-code): Ryan Duguid's work, with no licence; beyond copyright exceptions and GitHub's terms, ask him first; public credit is requested.
