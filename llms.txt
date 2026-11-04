@@ -1,26 +1,26 @@
-# EquityBot
+# yungSNAT
 
-> EquityBot publishes free tools for coding agents, privacy and documents, mostly in Rust. Each repository's README states what it does, what it needs and its limits; read version numbers and status from the linked repository.
+> yungSNAT publishes free tools for coding agents, privacy and documents, mostly in Rust. Each repository's README states what it does, what it needs and its limits; read version numbers and status from the linked repository.
 
-This file indexes EquityBot's GitHub repositories. Where a repository has its own llms.txt or CITATION.cff, prefer it for that repository's details.
+This file indexes yungSNAT's GitHub repositories. Where a repository has its own llms.txt or CITATION.cff, prefer it for that repository's details.
 
 ## Tools
 
-- [Puritanical](https://github.com/EquityBot/Puritanical): a skill for Claude Code, Codex and other coding agents that asks for the smallest correct change, verified. Forked from Ponytail.
-- [Laconic](https://github.com/EquityBot/Laconic): concise, answer-first output and an AI-text humaniser in correct Australian English, for coding agents.
-- [GhostSoap](https://github.com/EquityBot/GhostSoap): prepares Australian Privacy Act requests to data brokers from a sourced register, for you to send from your own mailbox. Reply tracking is planned.
-- [Alcuin](https://github.com/EquityBot/Alcuin): asks ChatGPT, or the OpenAI or Azure OpenAI API, about your source files from a CLI or MCP server, and keeps each answer as a durable session.
-- [DiogenesLamp](https://github.com/EquityBot/DiogenesLamp): archives Yupoo catalogues offline, with a local virtualised viewer.
+- [Puritanical](https://github.com/yungSNAT/Puritanical): a skill for Claude Code, Codex and other coding agents that asks for the smallest correct change, verified. Forked from Ponytail.
+- [Laconic](https://github.com/yungSNAT/Laconic): concise, answer-first output and an AI-text humaniser in correct Australian English, for coding agents.
+- [GhostSoap](https://github.com/yungSNAT/GhostSoap): prepares Australian Privacy Act requests to data brokers from a sourced register, for you to send from your own mailbox. Reply tracking is planned.
+- [Alcuin](https://github.com/yungSNAT/Alcuin): asks ChatGPT, or the OpenAI or Azure OpenAI API, about your source files from a CLI or MCP server, and keeps each answer as a durable session.
+- [DiogenesLamp](https://github.com/yungSNAT/DiogenesLamp): shows Yupoo catalogues on one searchable local page, covers and metadata only.
 
 ## Forks
 
-- [PlutarchPages](https://github.com/EquityBot/PlutarchPages): a pure Rust PDF workbench, forked from PdfCraft.
-- [PascalsLetter](https://github.com/EquityBot/PascalsLetter): a distribution of RTK, which compresses command output before a coding agent reads it. It installs the same `rtk` binary.
-- [GrievousGreps](https://github.com/EquityBot/GrievousGreps): a distribution of Trail-Code, a code graph CLI that maps the functions and callers it can resolve, so a coding agent can see what a change reaches before it edits. It installs the same `trail` and `graft` commands.
-- [ApollinaireASCII](https://github.com/EquityBot/ApollinaireASCII): a Rust library, CLI and browser editor for static ASCII art, block lettering and animation in selectable characters, forked from RASCII.
-- [PamweChete](https://github.com/EquityBot/PamweChete): a pi coding-agent configuration to copy piece by piece. Archived.
-- [Contribution forks](https://github.com/EquityBot/EquityBot/blob/main/FORKS.md): forks kept to offer fixes upstream, and their pull requests.
+- [PlutarchPages](https://github.com/yungSNAT/PlutarchPages): a pure Rust PDF workbench, forked from PdfCraft.
+- [PascalsLetter](https://github.com/yungSNAT/PascalsLetter): a distribution of RTK, which compresses command output before a coding agent reads it. It installs the same `rtk` binary.
+- [GrievousGreps](https://github.com/yungSNAT/GrievousGreps): a distribution of Trail-Code, a code graph CLI that maps the functions and callers it can resolve, so a coding agent can see what a change reaches before it edits. It installs the same `trail` and `graft` commands.
+- [ApollinaireASCII](https://github.com/yungSNAT/ApollinaireASCII): a Rust library, CLI and browser editor for static ASCII art, block lettering and animation in selectable characters, forked from RASCII.
+- [PamweChete](https://github.com/yungSNAT/PamweChete): a pi coding-agent configuration to copy piece by piece. Archived.
+- [Contribution forks](https://github.com/yungSNAT/yungSNAT/blob/main/FORKS.md): forks kept to offer fixes upstream, and their pull requests.
 
 ## Reuse
 
-- [Reusing this repository](https://github.com/EquityBot/EquityBot/blob/main/AGENTS.md#reusing-this-code): Ryan Duguid's work, with no licence; beyond copyright exceptions and GitHub's terms, ask him first; public credit is requested.
+- [Reusing this repository](https://github.com/yungSNAT/yungSNAT/blob/main/AGENTS.md#reusing-this-code): Ryan Duguid's work, with no licence; beyond copyright exceptions and GitHub's terms, ask him first; public credit is requested.
