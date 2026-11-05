@@ -11,6 +11,9 @@
 
 [![Latest PlutarchPages release](https://badgen.net/github/release/yungSNAT/PlutarchPages/stable?label=release&color=66023C&labelColor=000000)](https://github.com/yungSNAT/PlutarchPages/releases/latest) [![Latest laconic-check release](https://badgen.net/github/release/yungSNAT/Laconic/stable?label=release&color=66023C&labelColor=000000)](https://github.com/yungSNAT/Laconic/releases/latest)
 
+
+[Tools](#tools) · [Forks](#forks)
+
 </div>
 
 Free tools for coding agents, privacy and documents, mostly in Rust.
